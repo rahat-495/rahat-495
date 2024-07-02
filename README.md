@@ -1,16 +1,6 @@
 
 
 
-
-
-
-👋 Hey there! I'm a highly motivated MERN stack developer with a passion for crafting seamless user experiences. 💻 My GitHub profile is a showcase of my projects, where I leverage the power of React.js, Node.js, and MongoDB to build responsive and feature-rich applications. 🚀 From interactive frontends to robust backend APIs, I love exploring the full stack of web development.
-
-I thrive on challenges and enjoy collaborating with other developers to tackle complex problems. My code is clean, maintainable, and follows best practices, ensuring scalable and efficient solutions. 🌟
-
-Whether it's building dynamic user interfaces, implementing RESTful APIs, or optimizing database queries, I'm always eager to expand my skills and contribute to innovative projects. Let's connect on GitHub and explore the endless possibilities of the MERN stack together! 😊
-
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -59,4 +49,15 @@ Whether it's building dynamic user interfaces, implementing RESTful APIs, or opt
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p>
+
+<br/>
+
+## :bust_in_silhouette: About Me
+
+
+👋 Hey there! I'm a highly motivated MERN stack developer with a passion for crafting seamless user experiences. 💻 My GitHub profile is a showcase of my projects, where I leverage the power of React.js, Node.js, and MongoDB to build responsive and feature-rich applications. 🚀 From interactive frontends to robust backend APIs, I love exploring the full stack of web development.
+
+I thrive on challenges and enjoy collaborating with other developers to tackle complex problems. My code is clean, maintainable, and follows best practices, ensuring scalable and efficient solutions. 🌟
+
+Whether it's building dynamic user interfaces, implementing RESTful APIs, or optimizing database queries, I'm always eager to expand my skills and contribute to innovative projects. Let's connect on GitHub and explore the endless possibilities of the MERN stack together! 😊
 

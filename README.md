@@ -2,7 +2,7 @@
 
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/md-rahat-718172291/)
+
 
 👋 Hey there! I'm a highly motivated MERN stack developer with a passion for crafting seamless user experiences. 💻 My GitHub profile is a showcase of my projects, where I leverage the power of React.js, Node.js, and MongoDB to build responsive and feature-rich applications. 🚀 From interactive frontends to robust backend APIs, I love exploring the full stack of web development.
 
@@ -50,11 +50,13 @@ Whether it's building dynamic user interfaces, implementing RESTful APIs, or opt
 </p>
 <br/>
 
-## :mag_right: Now I am exploring
+## :mag_right: Now I am deeply exploring
 
 <br/>
 
 <p align="center">
 <img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/output-onlinepngtools.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 </p>
 

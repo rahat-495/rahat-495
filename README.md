@@ -11,4 +11,13 @@ I thrive on challenges and enjoy collaborating with other developers to tackle c
 Whether it's building dynamic user interfaces, implementing RESTful APIs, or optimizing database queries, I'm always eager to expand my skills and contribute to innovative projects. Let's connect on GitHub and explore the endless possibilities of the MERN stack together! 😊
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahat-495&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=850&border=00EBD5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahat-495&theme=dark&hide_border=true&card_width=750&border=00EBD5)](https://git.io/streak-stats)
+
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-rahat-718172291/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mrk.killar)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>]([https://twitter.com/_mir_hussain](https://x.com/mdRahat495)_)
+
+<br />
+

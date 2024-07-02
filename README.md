@@ -49,3 +49,7 @@ Whether it's building dynamic user interfaces, implementing RESTful APIs, or opt
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
 <br/>
+
+## :mag_right: Now I am exploring
+
+

@@ -13,13 +13,13 @@
 <br />
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kazi-rihatul-islam-rahat/">
+    <a target="_blank" href="https://www.linkedin.com/in/kazi-rihatul-islam-rahat/">
         <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Linkedin.png">
     </a>
-    <a href="https://www.facebook.com/mrk.killar">
+    <a target="_blank" href="https://www.facebook.com/mrk.killar">
         <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Facebook.png">
     </a>
-    <a href="https://x.com/mdRahat495">
+    <a target="_blank" href="https://x.com/mdRahat495">
         <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Twitter.png">
     </a>
 </p>

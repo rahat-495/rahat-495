@@ -12,7 +12,18 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-rahat-718172291/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mrk.killar)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>]([https://twitter.com/_mir_hussain](https://x.com/mdRahat495)_)
+<p align="center">
+    <a href="https://www.linkedin.com/in/kazi-rihatul-islam-rahat/">
+        <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">
+    </a>
+    <a href="https://www.facebook.com/mrk.killar">
+        <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">
+    </a>
+    <a href="https://x.com/mdRahat495">
+        <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">
+    </a>
+</p>
+
 
 <br />
 

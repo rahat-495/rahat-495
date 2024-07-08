@@ -14,13 +14,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/kazi-rihatul-islam-rahat/">
-        <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">
+        <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Linkedin.png">
     </a>
     <a href="https://www.facebook.com/mrk.killar">
-        <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">
+        <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Facebook.png">
     </a>
     <a href="https://x.com/mdRahat495">
-        <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">
+        <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Twitter.png">
     </a>
 </p>
 

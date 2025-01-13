@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/kazi-rihatul-islam-rahat/">
+    <a target="_blank" href="https://www.linkedin.com/in/kazi-rihatul-islam-rahat-8368b9344/">
         <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Linkedin.png">
     </a>
     <a target="_blank" href="https://www.facebook.com/mrk.killar">

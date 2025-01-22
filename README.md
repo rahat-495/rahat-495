@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=rahat-495&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahat-495&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ## :mailbox: Reach me out

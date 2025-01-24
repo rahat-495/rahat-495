@@ -5,8 +5,8 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats" style="display: block; width: 80%;">
-  <img src="https://streak-stats.demolab.com?user=rahat-495&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 80%;" />
+  <a href="https://git.io/streak-stats" style="display: block; width: 100%;">
+  <img src="https://streak-stats.demolab.com?user=rahat-495&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 100%;" />
 </a>
 </p>
 

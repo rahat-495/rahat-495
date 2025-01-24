@@ -5,9 +5,9 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats" style="display: block; width: 75%;">
-  <img src="https://streak-stats.demolab.com?user=rahat-495&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 75%;" />
-</a>
+  <a href="https://git.io/streak-stats" style="display: block; width: 75%; height: 200px;">
+    <img src="https://streak-stats.demolab.com?user=rahat-495&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 75%; height: 200px; object-fit: cover;" />
+  </a>
 </p>
 
 ## :mailbox: Reach me out

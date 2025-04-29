@@ -26,15 +26,19 @@
     </a>
 </p>
 
-
 <br />
 
 ## :computer: Technologies that I know
 
 <br>
+
+<P align="center">
+  <img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/output-onlinepngtools.png"/>
+</P>
+
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/css.png"/>
 </p>
 
 <p align="center">
@@ -50,18 +54,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p>
-<br/>
-
-## :mag_right: Now I am deeply exploring
-
-<br/>
-
-<p align="center">
-<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/output-onlinepngtools.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-</p>
-
 <br/>
 
 ## :bust_in_silhouette: About Me

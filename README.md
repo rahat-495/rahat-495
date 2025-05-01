@@ -16,13 +16,13 @@
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/kazi-rihatul-islam-rahat-8368b9344/">
-        <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Linkedin.png">
+        <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/Linkedin.png">
     </a>
     <a target="_blank" href="https://www.facebook.com/mrk.killar">
         <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Facebook.png">
     </a>
     <a target="_blank" href="https://x.com/mdRahat495">
-        <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Twitter.png">
+        <img height="75" src="https://github.com/rahat-495/rahat-495/blob/main/Twitter.png">
     </a>
 </p>
 
@@ -37,22 +37,22 @@
 </P>
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/HTML.png"/>
 <img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/css.png"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/JavaScript.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/react.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/express.png"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/tailwind.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/Bootsrap.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/firebase.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/node.png"/>
+<img src="https://github.com/rahat-495/rahat-495/blob/main/imgs/mongo.png"/>
 </p>
 <br/>
 
